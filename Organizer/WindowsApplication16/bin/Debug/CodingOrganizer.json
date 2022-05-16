@@ -1,0 +1,98 @@
+{
+  "C++": {
+    "Categories": "0General,1Data Types,4Header Files,3Classes,5Operators for Classes,2Arrays,6Lists,",
+    "SubCategories": "0Working Code,0SizeOf,0Cin,0Cout,1Getting Address,1Dereferencing a Pointer,2Array Creation,22D Arrays,2Getting Size of Arrays,1Malloc,3Creating Classes,3Constructors,3Desructors,3Functions inside Classes,3Classes of Type(Class),3Copying a class,1'This' function,3Friend Functions,3Copy Constructor,3Returning self,0Cin State,1Send by Reference &,4Layout,4Using a Header File,3Composition of Classes,5Addition (+),5Assignment (=),3Assignment Constructor,0Throwing Exceptions,0Try Function,1Using Explicit,5Subtration (-),3Static Members,6Push_back,6Forward/Backward Iterators,0While loop,0New/Delete,4Functions in a Header,5Cin (>>),5Cout (<<),",
+    "array.cpp": {
+      "Tags": "0Working Code,0SizeOf,0Cout,1Getting Address,1Dereferencing a Pointer,2Array Creation,22D Arrays,2Getting Size of Arrays",
+      "Location": "C++Notes\\array.cpp"
+    },
+    "assign3 (destructor).cpp": {
+      "Tags": "1Malloc,0Working Code,3Creating Classes,3Constructors,3Desructors,3Functions inside Classes,3Copying a class,1'This' function",
+      "Location": "C++Notes\\assign3 (destructor).cpp"
+    },
+    "Chapter9Pratice.cpp": {
+      "Tags": "0Working Code,3Friend Functions,3Copy Constructor,3Copying a class,3Creating Classes,3Constructors,3Functions inside Classes,3Returning self,1'This' function,0Cout",
+      "Location": "C++Notes\\Chapter9Pratice.cpp"
+    },
+    "Chapter13-1Question.cpp": {
+      "Tags": "3Classes of Type(Class),3Constructors,3Functions inside Classes",
+      "Location": "C++Notes\\Chapter13-1Question.cpp"
+    },
+    "cin(input).cpp": {
+      "Tags": "0Cin,0Working Code,0Cout,0Cin State",
+      "Location": "C++Notes\\cin(input).cpp"
+    },
+    "Class2 (using namespace) (references_pointers).cpp": {
+      "Tags": "1Send by Reference &,1Dereferencing a Pointer,0Working Code",
+      "Location": "C++Notes\\Class2 (using namespace) (references_pointers).cpp"
+    },
+    "class4.cpp": {
+      "Tags": "4Using a Header File",
+      "Location": "C++Notes\\class4.cpp"
+    },
+    "Classes.cpp": {
+      "Tags": "3Functions inside Classes,3Creating Classes",
+      "Location": "C++Notes\\Classes.cpp"
+    },
+    "Composition.cpp": {
+      "Tags": "3Composition of Classes,3Creating Classes",
+      "Location": "C++Notes\\Composition.cpp"
+    },
+    "Copy-Assignment-Default Constructors.cpp": {
+      "Tags": "3Creating Classes,3Constructors,3Friend Functions,5Assignment (=),3Copy Constructor,3Assignment Constructor",
+      "Location": "C++Notes\\Copy-Assignment-Default Constructors.cpp"
+    },
+    "Exceptions.cpp": {
+      "Tags": "0Throwing Exceptions,0Working Code,0Try Function",
+      "Location": "C++Notes\\Exceptions.cpp"
+    },
+    "explicit_const.cpp": {
+      "Tags": "1Using Explicit,3Creating Classes,3Friend Functions,3Functions inside Classes,5Cout (<<),5Addition (+)",
+      "Location": "C++Notes\\explicit_const.cpp"
+    },
+    "Initialization List & Static variables.cpp": {
+      "Tags": "3Creating Classes,3Constructors,3Desructors,3Static Members,5Cout (<<)",
+      "Location": "C++Notes\\Initialization List & Static variables.cpp"
+    },
+    "iterators.cpp": {
+      "Tags": "6Push_back,6Forward/Backward Iterators,0While loop",
+      "Location": "C++Notes\\iterators.cpp"
+    },
+    "new_delete.cpp": {
+      "Tags": "0New/Delete",
+      "Location": "C++Notes\\new_delete.cpp"
+    },
+    "plus5.cpp": {
+      "Tags": "3Friend Functions,5Cout (<<),5Addition (+)",
+      "Location": "C++Notes\\plus5.cpp"
+    },
+    "Angle.h": {
+      "Tags": "4Using a Header File,4Layout,4Functions in a Header",
+      "Location": "C++Notes\\HW1\\P1\\Angle.h"
+    },
+    "Fraction.cpp": {
+      "Tags": "4Using a Header File,4Functions in a Header,5Subtration (-),5Addition (+),5Cout (<<),5Cin (>>)",
+      "Location": "C++Notes\\HW1\\P2\\Fraction.cpp"
+    }
+  },
+  "C": {
+    "Categories": "0General,",
+    "SubCategories": "0Working Code,"
+  },
+  "Java": {
+    "Categories": "0General",
+    "SubCategories": "0Working Code,"
+  },
+  "Python": {
+    "Categories": "0General",
+    "SubCategories": "0Working Code,"
+  },
+  "Visual Basic": {
+    "Categories": "0General",
+    "SubCategories": "0Working Code,"
+  },
+  "x86-64": {
+    "Categories": "0General",
+    "SubCategories": "0Working Code,"
+  }
+}

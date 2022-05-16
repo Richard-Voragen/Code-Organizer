@@ -1,0 +1,42 @@
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbprojResolveAssemblyReference.cache
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\Newtonsoft.Json.dll
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\Newtonsoft.Json.xml
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+c:\users\richard voragen\documents\visual studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.AddFiles.resources
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.vbprojResolveAssemblyReference.cache
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.AddFiles.resources
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+C:\Users\Richard Voragen\Desktop\Stuff\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\Newtonsoft.Json.dll
+D:\Coding Examples\Organizer\WindowsApplication16\bin\Debug\Newtonsoft.Json.xml
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.vbprojResolveAssemblyReference.cache
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.AddFiles.resources
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.Form1.resources
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+D:\Coding Examples\Organizer\WindowsApplication16\obj\Debug\WindowsApplication16.vbproj.GenerateResource.Cache
