@@ -10,5 +10,5 @@ To add new files: <br>
      -To delete categories or sub-categories just click on the category to be deleted and press the delete key<br>
      -To select the category just doubleclick on the subcategory, to remove it from the right double click it there<br>
   4.Click Apply to add the new file<br>
-  <br>
+****
 The data will be stored in a json file<br>
