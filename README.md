@@ -11,4 +11,4 @@ To add new files:
      -To delete categories or sub-categories just click on the category to be deleted and press the delete key.<br>
  4. Click Apply to add the new file.<br>
 ****
-The data will be stored in a json fiasdfasdfle.<br>
+The data will be stored in a json file.<br>
