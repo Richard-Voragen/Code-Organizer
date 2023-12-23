@@ -1,6 +1,6 @@
 # Code-Organizer
-**This code allows you to organize other coding projects by category to allow you to easily look at your previous work. \n
-Import the entire folder but the main executable is found in WindowsApplication16\bin\Debug\WindowsApplication16.exe** <br>
+**This code allows you to organize other coding projects by category to allow you to easily look at your previous work.** <br>
+**Import the entire folder but the main executable is found in WindowsApplication16\bin\Debug\WindowsApplication16.exe** <br>
 ****
 To add new files:
  1. Press the plus button.<br>
