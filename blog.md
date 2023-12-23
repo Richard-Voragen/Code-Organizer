@@ -9,9 +9,9 @@ To add new files:
 4. Click Apply to add the new file.
 
 ### Categories
--To select the category just doubleclick on the subcategory, to remove it from the right double click it there.
--To create new categories or sub-categories just type the name into the box and press enter.
--To delete categories or sub-categories just click on the category to be deleted and press the delete key.
++ To select the category just doubleclick on the subcategory, to remove it from the right double click it there.
++ To create new categories or sub-categories just type the name into the box and press enter.
++ To delete categories or sub-categories just click on the category to be deleted and press the delete key.
 
 The data will be stored in a json file.
 
